@@ -17,7 +17,7 @@ Esse foi um projeto proposto pela plataforma [Codante](https://codante.io), onde
 
 ## Deploy
 
-- Acesse o Deploy da aplicação [por esse link]()
+- Acesse o Deploy da aplicação [por esse link](https://mp-landing-page-meow-cafe-theta.vercel.app)
 
 ### Tecnologias utilizadas
 
